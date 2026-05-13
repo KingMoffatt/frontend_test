@@ -1,0 +1,10 @@
+{
+  "routes": [
+    {
+      "route": "https://next-new-a0gxaphfgtffaegm.westeurope-01.azurewebsites.net/health",
+      "methods": [
+        "get"
+      ]
+    }
+  ]
+}
